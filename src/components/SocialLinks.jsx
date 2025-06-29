@@ -8,8 +8,13 @@ const SocialLinks = () => (
     <a href="https://github.com/ryuvanraj" target="_blank" rel="noopener noreferrer">
       <i className="fab fa-github"></i>
     </a>
-    <a href="https://codepen.io/ryuvanraj" target="_blank" rel="noopener noreferrer">
-      <i className="fab fa-codepen"></i>
+    <a
+      href="https://mail.google.com/mail/?view=cm&fs=1&to=yuvan.r2005@gmail.com"
+      target="_blank"
+      rel="noopener noreferrer"
+      title="Send email via Gmail"
+    >
+      <i className="fas fa-envelope"></i>
     </a>
   </div>
 );
